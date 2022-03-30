@@ -1,13 +1,14 @@
 # 신동욱
 
 [03월 30]
-ㄴㅇㄻㄴㅇㄻㅇㄴ
-ㅁㅇㄴㄻㄴㅇㄻ
-ㅁㄴㅇㄹ
+## 로컬 사용자 등록
+### 해당 폴더에만 적용
+$ git config --local user.name "Your Name" 
+$ git config --local user.email "you@example.com"
 
 [03월 23일]
 
-### 로컬PC에서 push
+### 글로벌 사용자 등록
 $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
 
